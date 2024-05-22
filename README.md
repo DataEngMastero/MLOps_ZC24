@@ -20,8 +20,19 @@ Feature Selection - <br>
  1. Categorical - PULocationID, DOLocationID 
  2. Numerical - trip_distance
 
-Converting categorical features as string to use dictionary vectorisation <br>
+Converting categoical features as string to use dictionary vectorisation <br>
 Training Model using Linear Regression, Ridge, and Lasso <br>
 Finding Mean Squared Error <br>
 
+
+### Experiment Tracking with MLflow
+
+Experiment Tracking is the process of keeping records of relevent information when doing ML experiment runs. <br>
+
+MLflow is an open source tool for ML lifecycle. <br>
+1. Allows us to organise experiements
+2. Log Extra Informations about runs
+
+Command to execute MLflow: mlflow ui --port 5000
+MLflow URL: http://127.0.0.1:5000 
 

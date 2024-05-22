@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/489225301951436452/717056103ba94834902df59e41477ab3/artifacts
+end_time: 1716396226573
+entry_point_name: ''
+experiment_id: '489225301951436452'
+lifecycle_stage: active
+run_id: 717056103ba94834902df59e41477ab3
+run_name: bouncy-mule-813
+run_uuid: 717056103ba94834902df59e41477ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716396221322
+status: 3
+tags: []
+user_id: poojasingh
