@@ -36,3 +36,5 @@ MLflow is an open source tool for ML lifecycle. <br>
 Command to execute MLflow: mlflow ui --port 5000
 MLflow URL: http://127.0.0.1:5000 
 
+MLflow allows us to comapre multiple runs and understand the relationship between hyperparameters using Parllel, Scatter, Box and Contour Charts
+MLflow supports autologging which logs more informations and create artifact files
